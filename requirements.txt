@@ -1,0 +1,6 @@
+keras==2.15.0
+numpy==1.24.2
+opencv-python-headless==4.9.0.80  # Utilisation de la version headless pour éviter des problèmes d'affichage
+streamlit==1.38.0
+setuptools==65.5.0  # Version compatible de setuptools
+pip==23.1.2         # Version compatible de pip
